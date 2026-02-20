@@ -17,6 +17,5 @@
 ## 文件说明
 - `llm_api_call.py`：大模型API调用核心逻辑伪代码，展示核心开发思路
 - `prompt_templates/`：12套可复用Prompt模板（文本形式记录在test_report.md中）
-- `demo_screenshot.png`：工具功能模拟演示截图
 - `test_report.md`：100组测试数据的统计分析报告
 - `visualization_charts.md`：优化前后转化率对比可视化图表说明
